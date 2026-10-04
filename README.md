@@ -2,7 +2,9 @@
 
 **Open-Source SIEM & XDR Security Platform — Deployment, Detection & Response Lab**
 
-> Originally completed as a team project for *IT Elective 3 (Ethical Hacking)*. This repo documents my individual contribution and understanding of the deployment, architecture, and detection capabilities — reframed here as a standalone portfolio write-up.
+> Originally completed as a team project for IT Elective 3 (Ethical Hacking). This repo documents my individual contribution and understanding of the deployment, architecture, and detection capabilities — reframed here as a standalone portfolio write-up.
+
+> **Project Status — Archived:** The original lab environment has been decommissioned. This repository preserves the documentation, implementation notes, demonstration results, and lessons learned from the completed Wazuh project.
 
 ## Project Summary
 
